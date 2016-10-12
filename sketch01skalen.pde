@@ -1,25 +1,7 @@
 /*****************************************
- * Assignment 01
- * Name:         Sarah Kalen
- * E-mail:       skalen@brynmawr.edu
- * Course:       CS 110 - Section #01
- * Submitted:    09/13/2016
- * 
- * This sketch is based on an illustration called "Dip" by scottish 
- illustrator David Galletly. I first drew the sketch on graph paper,
- then translated the coordinates to a 500x500 digital canvas. 
- I began with the basic shape of the hand, and later layered in details
- such as nails, wrinkles, and water ripples. After establishing the 
- basic shape I also tweaked the code's order and color values (e.g. alpha)
- to create the proper depth (for example, assuring the ripples were layered 
- on TOP of the light blue fingertip yet wrapped BEHIND the darker, "above-
- surface" part of the finger). The design was somewhat challenging, as the 
- form of the hand is irregular and thus cannot be built using 2D 
- primitives and simple shapes alone. Although the squarish upper wrist 
- and elliptical ripples could be made largely using those basic functions,
- the curvature of the hand, the wrinkles, and the fingers were created 
- by hand-plotting (and later inputting) over 200 individual coordinate 
- points. 
+  This sketch is based on an illustration called "Dip" by scottish 
+ illustrator David Galletly. Sketch first drawn on graph paper,
+ then translated to a digital canvas. 
  *****************************************/
 
 //setup
