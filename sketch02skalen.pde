@@ -1,11 +1,5 @@
 /*****************************************
- * Assignment 2
- * Name:    Sarah Kalen
- * E-mail:  skalen@brynmawr.edu
- * Course:  CS 110 - Section 01
- * Submitted: 9/22/2016  
- *
- * "Don’t Tap the Glass" by Sarah Kalen
+  "Don’t Tap the Glass" by Sarah Kalen
  A program design for an interactive wallpaper, 
  featuring a swimming fish that gets angry when
  the tank is clicked on.
